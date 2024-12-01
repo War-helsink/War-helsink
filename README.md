@@ -14,7 +14,7 @@ Let's create something amazing together!
 
 ### Connect with me:
 - [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=E4405F&logoColor=white&style=for-the-badge)](https://www.instagram.com/__nychyporchuk__)
-- [![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=bandsintown&label=&color=1F2937&logoColor=white&style=for-the-badge)](https://твой_сайт.com)
+- [![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=bandsintown&label=&color=1F2937&logoColor=white&style=for-the-badge)](https://www.nychyporchuk.com/)
 - [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge)](https://www.nychyporchuk.com)
 - [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/arkadii-nychyporchuk-b8423523b)
 
